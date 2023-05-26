@@ -22,8 +22,6 @@ CardWirthのシナリオ用ランダマイザーです。
 - 一定数のシナリオ(特に[askシナリオ](http://www.ask.sakura.ne.jp/CardWirth/Scenario/)は全部ダウンロードした方が良いです)
 
 # 使い方
-# 使い方
-
 - コマンドプロンプトで「py randomizer.py」もしくは「py hardrandomizer.py」と入力するだけ
 
 # 注意点
