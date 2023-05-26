@@ -4,6 +4,7 @@ CardWirthのシナリオ用ランダマイザーです。
 ランダマイザーで新たなCardWirthの世界を楽しみましょう！
 
 # ハード版とノーマル版の違い
+# ハード版とノーマル版の違い
 
 ノーマル版は置き換わるものが「askシナリオやモンスター図鑑+から」です。
 ハード版は置き換わるものが「シナリオ全部から」です。
@@ -21,6 +22,7 @@ CardWirthのシナリオ用ランダマイザーです。
 - モンスター図鑑+(ノーマル版のみ。CardWirthPyには付属していないので[1.50](https://cardwirth.net/office/download.php)をダウンロードしてください)
 - 一定数のシナリオ(特に[askシナリオ](http://www.ask.sakura.ne.jp/CardWirth/Scenario/)は全部ダウンロードした方が良いです)
 
+# 使い方
 # 使い方
 
 - コマンドプロンプトで「py randomizer.py」もしくは「py hardrandomizer.py」と入力するだけ
